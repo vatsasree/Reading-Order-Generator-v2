@@ -1,0 +1,14 @@
+/results_*/
+
+/jsons_*/
+
+*.json
+
+*.png
+
+GRs_*
+jsons/
+
+__pycache__/
+
+tests/
